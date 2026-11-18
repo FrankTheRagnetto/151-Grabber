@@ -1,0 +1,7 @@
+<resources>
+    <color name="testo">#1F1F1F</color>
+    <color name="errore">#C0392B</color>
+    <color name="ok">#2E7D32</color>
+    <color name="accento">#2F5D8A</color>
+    <color name="icona_fondo">#2F5D8A</color>
+</resources>

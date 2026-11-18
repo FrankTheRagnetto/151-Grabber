@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.part
+# android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.kotlin/
+# firma: il keystore NON si versiona e NON si cancella mai
+android/.signing/
+*.jks
+*.keystore
+keystore.properties
